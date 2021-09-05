@@ -18,6 +18,6 @@ $ cd Chokh_LaL
 $ chmod +x *  
 $ python2 Chokh_Lal 
 
-![Uploading Screenshot_20210905-201839_Termux.jpg…]()
 
-ok
+![Screenshot_20210905-201839_Termux](https://user-images.githubusercontent.com/64296613/132130550-a306cdc5-0f86-47de-b0d4-ad75986e8416.jpg)
+
