@@ -1,3 +1,4 @@
+![Screenshot_20210905-084416_Termux](https://user-images.githubusercontent.com/64296613/132113316-077567db-c01c-4130-bbf8-fe1dca63fc03.jpg)
 # Chokh_LaL
 ## ✯ 𝑻𝒐𝒐𝒍 𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝑵.𝑨.𝑴 𝑴𝒂𝒉𝒇𝒖𝒋✯
 
