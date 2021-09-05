@@ -17,6 +17,7 @@ $ git clone https://github.com/mahfuj420/Chokh_LaL
 $ cd Chokh_LaL  
 $ chmod +x *  
 $ python2 Chokh_Lal 
+
 ![Uploading Screenshot_20210905-201839_Termux.jpg…]()
 
 ok
